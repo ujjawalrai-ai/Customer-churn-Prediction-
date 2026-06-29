@@ -70,6 +70,7 @@ Customer-Churn-Prediction/
 ├── 7_logistic_model.pkl
 
 ├── screenshots/
+
   └── Result.png
   └── Dashboard.png
 
